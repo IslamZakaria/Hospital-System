@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <account>
+    <username>ADMIN</username>
+    <e_mail>admin</e_mail>
+    <password>0000</password>
+    <type>manager</type>
+  </account>
+  <account>
+    <username>hossam</username>
+    <e_mail>hossam</e_mail>
+    <password>0000</password>
+    <type>pharmacist</type>
+  </account>
+  <account>
+    <username>eslam</username>
+    <e_mail>ess</e_mail>
+    <password>0000</password>
+    <type>doctor</type>
+  </account>
+  <account>
+    <username>kamal</username>
+    <e_mail>kamal</e_mail>
+    <password>0000</password>
+    <type>receptionist</type>
+  </account>
+  <account>
+    <username>abdelrahman mohamed hossam</username>
+    <e_mail>abdohossam</e_mail>
+    <password>0000</password>
+    <type>doctor</type>
+  </account>
+  <account>
+    <username>eslam mohamed zkaria</username>
+    <e_mail>zkaria</e_mail>
+    <password>0000</password>
+    <type>receptionist</type>
+  </account>
+  <account>
+    <username>akmal ahmed galal</username>
+    <e_mail>akmal</e_mail>
+    <password>0000</password>
+    <type>pharmacist</type>
+  </account>
+  <account>
+    <username>eslam</username>
+    <e_mail>ziko</e_mail>
+    <password>0000</password>
+    <type>receptionist</type>
+  </account>
+  <account>
+    <username>nasr</username>
+    <e_mail>nasr</e_mail>
+    <password>0000</password>
+    <type>doctor</type>
+  </account>
+</ArrayOfAccount>

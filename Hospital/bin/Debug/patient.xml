@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <patient>
+    <name>shimaa</name>
+    <address>shoubra</address>
+    <phone>0100212165</phone>
+    <age>45</age>
+    <diagnosis>sokar</diagnosis>
+  </patient>
+  <patient>
+    <name>YASSIN</name>
+    <address>EL-KHANKA</address>
+    <phone>010</phone>
+    <age>5</age>
+    <diagnosis>fuck</diagnosis>
+  </patient>
+</ArrayOfPatient>

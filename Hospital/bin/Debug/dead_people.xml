@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfDead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dead>
+    <name>akmal</name>
+    <address>shoubra</address>
+    <satus>sakta albya</satus>
+    <age>21</age>
+  </dead>
+  <dead>
+    <name>abdelrahman</name>
+    <address>elzawya</address>
+    <satus>2albo w2f</satus>
+    <age>23</age>
+  </dead>
+  <dead>
+    <name>abdelrahman</name>
+    <address>elzawya</address>
+    <satus>sakta</satus>
+    <age>23</age>
+  </dead>
+</ArrayOfDead>

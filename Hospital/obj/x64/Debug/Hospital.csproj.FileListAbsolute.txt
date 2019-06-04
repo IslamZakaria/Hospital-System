@@ -1,0 +1,13 @@
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\bin\x64\Debug\Hospital.exe.config
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\bin\x64\Debug\Hospital.exe
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\bin\x64\Debug\Hospital.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.Manegar.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.Pharmacy.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.Reciptionist.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.signin.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.signup.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.exe
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\Hospital\Hospital\obj\x64\Debug\Hospital.csprojResolveAssemblyReference.cache
